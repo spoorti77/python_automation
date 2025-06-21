@@ -1,8 +1,3 @@
-Sure! Here's the **full README.md content in one block**, ready for **copy-paste**:
-
----
-
-```markdown
 # Automated Form Submission using Selenium and Excel
 
 This project automates data entry on the [Unitetools KA portal](https://ka.unitetools.in) using Python, Selenium, and Excel.
